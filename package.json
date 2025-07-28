@@ -14,7 +14,7 @@
   ],
   "author": "Advanced Reading Team",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@vuepress/client": "^2.0.0-rc.24",
     "@vuepress/bundler-vite": "^2.0.0-rc.24",
     "vuepress": "^2.0.0-rc.24",
