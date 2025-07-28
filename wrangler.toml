@@ -1,0 +1,9 @@
+name = "advanced-reading"
+main = "dist/index.html"
+compatibility_date = "2023-11-21"
+
+[site]
+bucket = "./docs/.vuepress/dist"
+
+[build]
+command = "npm run docs:build"
